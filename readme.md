@@ -1,4 +1,4 @@
-# Town Hall Meetinf Resolutions For the Student Council at the College of Computing at Georgia Tech
+# Town Hall Meeting Resolutions For the Student Council at the College of Computing at Georgia Tech
 
 ## Compiling the pdf for a resolution
 If you have pandoc installed, simply run:
