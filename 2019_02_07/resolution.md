@@ -40,6 +40,7 @@ students greater opportunities to work with real hardware in a collaborative set
 prepared to start careers which require such skills. This space could also allow hardware to be checked out, and this
 system could be managed by student employees. The hardware available could include development boards for courses at
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tech, arduinos, VR devices, etc.
 
 (13) On the matter of space being opened up on the third floor of the CoC, some of the space should be allocated for
@@ -77,6 +78,8 @@ cc-newsandevents Issues
 4. Redundancy and spam: On average, the student body recieves between 2 - 4 separate emails from the mailing list server per day. The redundancy of news contained in emails along with their frequent dispatch reduces the effectiveness of the server in its function of keeping the CoC student body informed by frustrating its readers. The CoC should take steps to consolidate email information and curtail redundancy. 
 
 =======
+=======
+>>>>>>> d6af170f3c5bfae47afaa45af201ca1f44187609
 Tech, raspberry pis, arduinos, VR devices, etc. It is possible that funding for this could be secured through CAP.
 Additionally, it seems that Troy Peace is currently working on a project similar to this, and these ideas might
 dovetail nicely into that project.
