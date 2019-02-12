@@ -57,29 +57,14 @@ Printers and staplers - more equipment - reach out to facilities (maybe Anthony)
 
 Breakout rooms like in the CULC with low overhead booking (9) - Interview rooms
 
+cc-newsandevents Issues
 
-Dean Search
-30 minutes block with 3-4 students - voice major concerns, how they were going to treat the student body - ask if this is happening
-Student communication with Dean Finalists?
-If the CoC having a seminar where they talk about each of the candidates? - livestream - event summary highlight
+(14) On the matter of the email-based communication channel in the CoC, cc-newsandevents, the following issues have been voted by the student community as ones to be addressed. 
 
-Cc News and Events
-Reasons we don’t like it: (14)
-Locking down permission
-Bounce problems
-Transparency with moderation
-Timing with moderation
-Pictures not rendering
-Secure Mail delivery
-    Using more secure mailing list software (SYMPA does not support secure mail)
-Redundancy
-Privacy
+1. Moderation transparency: There is little to no transparency in the email moderation process. The moderation process seems to take place at odd hours of the day and has been found to be the cause of delay in important CoC announcements reaching the student body in a timely manner.
 
-lock down permissions a little better- no reply all
-What’s the deal with the bounce problems? OEC’s been looking into what’s going wrong with it
-No BCCing - FERPA violation
-who is the moderator? What is the deal with moderation for CC News? Admin has issues with this
-Grad students - permits issued for classes through a cc-news-and-events email via surveymonkey - what is the deal with this?
-cc-news-and-events pictures never render
-suggestion: send notifications/weekly digest through canvas? - weekly recap through canvas - figure something else out for daily communication - redundancy is awful
+2. Email bouncing and privacy: In recent incidents, undeliverable cc-newsandevents emails bounced and sent multiple error emails to the entire mailing list, which not only caused incovenience to the student community but exposed a student's private email address. The CoC should take steps to resolve this issue, including considering using a more secure mailing list server than SYMPA. 
+
+4. Redundancy and spam: On average, the student body recieves between 2 - 4 separate emails from the mailing list server per day. The redundancy of news contained in emails along with their frequent dispatch reduces the effectiveness of the server in its function of keeping the CoC student body informed by frustrating its readers. The CoC should take steps to consolidate email information and curtail redundancy. 
+
 
