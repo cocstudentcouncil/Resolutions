@@ -39,33 +39,12 @@ toward a "maker space" which would allow students to check out and work with har
 students greater opportunities to work with real hardware in a collaborative setting, making them more skilled and
 prepared to start careers which require such skills. This space could also allow hardware to be checked out, and this
 system could be managed by student employees. The hardware available could include development boards for courses at
-<<<<<<< HEAD
-<<<<<<< HEAD
 Tech, arduinos, VR devices, etc.
 
 (13) On the matter of space being opened up on the third floor of the CoC, some of the space should be allocated for
 general-use study space by students, and existing study spaces (such as "The Nest" in 346) should be refurbished and
 made more accessible. This could include updating the furniture and/or updating the selection of books in its library,
 which are relatively outdated for the most part.
-
-(x) On the matter of space being opened up on the third floor of the CoC
-(x) On the matter of space being opened up on the third floor of the CoC
-(x) On the matter of space being opened up on the third floor of the CoC
-(x) On the matter of space being opened up on the third floor of the CoC
-(x) On the matter of space being opened up on the third floor of the CoC
-
-Makery - next to Troy - being made into a makerspace (just cleared out equipment) eg. a collaborative space, devboards, shelves with more recent textbooks, hardware set - raspberry pis, arduinos, - some locked cage, student employee/staff to check them out equipment
-Collaborative study sessions
-    Submit a request to CAP to get funding for this
-    Proposition: have this downstairs for visibility and move TA labs upstairs
-    Ping Anthony about space allocation maybe <- he would know who on campus allocates
-    space
-
-improve Nest atmosphere, repair, refurnish - expand
-Printers and staplers - more equipment - reach out to facilities (maybe Anthony)
-    Updated tables and chairs (13)
-
-Breakout rooms like in the CULC with low overhead booking (9) - Interview rooms
 
 cc-newsandevents Issues
 
